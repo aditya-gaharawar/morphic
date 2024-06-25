@@ -9,8 +9,8 @@ export const Header: React.FC = async () => {
       <div>
         <a href="/" className="flex items-center">
           <img 
-            src="https://res.cloudinary.com/radhe-img/image/upload/v1719300807/sWtgFLSqDKtlZ1ACdAj7w5PA9QVuu5DDyOq9_iofjzd.png" 
-            alt="WEBSPACEAI RESEARCH Logo" 
+            src="https://res.cloudinary.com/radhe-img/image/upload/c_crop,w_1000,h_180/v1719300807/sWtgFLSqDKtlZ1ACdAj7w5PA9QVuu5DDyOq9_iofjzd.png" 
+            alt="WEBSPACEAI RESEARCH" 
             className={cn('w-8 h-8 object-contain')} 
           />
           <span className="sr-only">WEBSPACEAI RESEARCH</span>
